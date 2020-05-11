@@ -5,12 +5,15 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Lab07Dependencia.MainPage">
-
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
-
+    <ContentPage.Content>
+        <StackLayout Spacing="10">
+            <Button
+                Text="Click para escanear"
+                x:Name="BtnScanear"
+                Clicked="BtnScanear_Clicked"/>
+            <Entry
+                x:Name="txtCodigo"
+                Placeholder="Texto escaneado"/>
+        </StackLayout>
+    </ContentPage.Content>
 </ContentPage>

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using ZXing.Mobile;
 
 namespace Lab07Dependencia
 {
@@ -16,6 +17,23 @@ namespace Lab07Dependencia
         public MainPage()
         {
             InitializeComponent();
+        }
+        public async void BtnScanear_Clicked(object sender, EventArgs e)
+        {
+            try
+            {
+                var scanner = DependencyService.Get<IQRScanning>();
+                var result = await scanner.ScanAsync();
+                if (result != null)
+                {
+                    txtCodigo.Text = result;
+                }
+            }
+            catch (Exception)
+            {
+                //throw;
+                await Navigation.PushAsync(new MainPage());
+            }
         }
     }
 }
