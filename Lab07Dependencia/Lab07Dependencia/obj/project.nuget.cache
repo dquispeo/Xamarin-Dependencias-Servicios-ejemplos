@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "xVXdF6n1BioJzDBhS7GIAok6dOqUtjpsjLWm8i8C5E4U3SPBWzWyNPxGt8Yw8DkME9RyQHDLQEVRM7be2BxczQ==",
+  "dgSpecHash": "gcoMz2G9HwqYpK6FC4Tppb9hM+mNYoZTDnoD4DbX3alvuIxdyJ4tcL3iCTELazebU2mXmkpZ6ZBpgVwtQCpE+g==",
   "success": true,
-  "projectFilePath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
+  "projectFilePath": "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "E:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "E:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
   ],
   "logs": []
 }

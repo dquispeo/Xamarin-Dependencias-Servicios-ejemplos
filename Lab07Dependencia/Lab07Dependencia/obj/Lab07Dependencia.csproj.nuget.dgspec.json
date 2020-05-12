@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {}
+    "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {}
   },
   "projects": {
-    "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
+    "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
+        "projectUniqueName": "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
         "projectName": "Lab07Dependencia",
-        "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\obj\\",
+        "projectPath": "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
+        "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
+        "outputPath": "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

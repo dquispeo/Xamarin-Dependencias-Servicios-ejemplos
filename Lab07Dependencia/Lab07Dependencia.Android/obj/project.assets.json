@@ -2037,24 +2037,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
-    "E:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
+      "projectUniqueName": "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
       "projectName": "Lab07Dependencia.Android",
-      "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.Android\\obj\\",
+      "projectPath": "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
+      "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
+      "outputPath": "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "E:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2068,8 +2068,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
-              "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj"
+            "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
+              "projectPath": "C:\\xamarin git\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj"
             }
           }
         }

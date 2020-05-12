@@ -9,14 +9,16 @@ using ZXing.Mobile;
 
 namespace Lab07Dependencia
 {
-    // Learn more about making custom code visible in the Xamarin.Forms previewer
-    // by visiting https://aka.ms/xamarinforms-previewer
-    [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
         public MainPage()
         {
             InitializeComponent();
+
+            Item2.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new BatteryDemo());
+            };
         }
         public async void BtnScanear_Clicked(object sender, EventArgs e)
         {

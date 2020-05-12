@@ -12,3 +12,18 @@ E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\De
 E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.dll
 E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\ref\Lab07Dependencia.dll
 E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.pdb
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.deps.json
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.dll
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.pdb
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csprojAssemblyReference.cache
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csproj.CoreCompileInputs.cache
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfoInputs.cache
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfo.cs
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.dll
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.pdb

@@ -7,6 +7,8 @@
              x:Class="Lab07Dependencia.MainPage">
     <ContentPage.Content>
         <StackLayout Spacing="10">
+            <Button x:Name="Item1" Text="TextoSpeech"/>
+            <Button x:Name="Item2" Text="Battery"/>
             <Button
                 Text="Click para escanear"
                 x:Name="BtnScanear"
