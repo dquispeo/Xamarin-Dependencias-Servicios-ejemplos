@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using ZXing.Mobile;
 
 namespace Lab07Dependencia.Droid
 {
@@ -19,6 +20,7 @@ namespace Lab07Dependencia.Droid
 
             base.OnCreate(savedInstanceState);
 
+            MobileBarcodeScanner.Initialize(Application);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());

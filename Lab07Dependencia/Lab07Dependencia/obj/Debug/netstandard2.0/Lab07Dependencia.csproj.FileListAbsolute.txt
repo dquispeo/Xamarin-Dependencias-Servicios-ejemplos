@@ -1,30 +1,60 @@
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.deps.json
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.dll
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\ref\Lab07Dependencia.dll
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.pdb
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csprojAssemblyReference.cache
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csproj.CoreCompileInputs.cache
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfoInputs.cache
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfo.cs
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\XamlC.stamp
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.dll
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\ref\Lab07Dependencia.dll
-D:\Proyectos-Visual Studio\Lab07-Jeff\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.pdb
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.deps.json
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.dll
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\ref\Lab07Dependencia.dll
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.pdb
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csprojAssemblyReference.cache
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csproj.CoreCompileInputs.cache
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfoInputs.cache
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfo.cs
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\XamlC.stamp
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.dll
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\ref\Lab07Dependencia.dll
-D:\Proyectos-Visual Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.pdb
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.deps.json
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.dll
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csprojAssemblyReference.cache
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfoInputs.cache
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfo.cs
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.pdb
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csproj.CoreCompileInputs.cache
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\XamlC.stamp
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.dll
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+E:\ProjectVisualStudio\Lab07Dependencia\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.pdb
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.deps.json
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.dll
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.pdb
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csprojAssemblyReference.cache
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csproj.CoreCompileInputs.cache
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfoInputs.cache
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfo.cs
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.dll
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+C:\xamarin git\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.pdb
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.deps.json
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.dll
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.pdb
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csprojAssemblyReference.cache
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csproj.CoreCompileInputs.cache
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfoInputs.cache
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfo.cs
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.dll
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos-c30c84920576e4b37451cf60f8de6390eb874ec7\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.pdb
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.deps.json
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.dll
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\bin\Debug\netstandard2.0\Lab07Dependencia.pdb
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csprojAssemblyReference.cache
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.csproj.CoreCompileInputs.cache
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfoInputs.cache
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.AssemblyInfo.cs
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.dll
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\ref\Lab07Dependencia.dll
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\Lab07Dependencia.pdb
+D:\Proyectos-Visual-Studio\Xamarin-Dependencias-Servicios-ejemplos\Lab07Dependencia\Lab07Dependencia\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs

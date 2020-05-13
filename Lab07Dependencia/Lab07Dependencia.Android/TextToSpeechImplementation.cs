@@ -18,7 +18,7 @@ using Lab07Dependencia.Droid;
 namespace Lab07Dependencia.Droid
 {
 
-            public class TextToSpeechImplementation : Java.Lang.Object, ITextToSpeech, TextToSpeech.IOnInitListener
+    public class TextToSpeechImplementation : Java.Lang.Object, ITextToSpeech, TextToSpeech.IOnInitListener
     {
         TextToSpeech speaker;
         string toSpeak;
@@ -29,7 +29,7 @@ namespace Lab07Dependencia.Droid
             if (speaker == null)
             {
 
-                speaker = new TextToSpeech(Forms.Context, this);
+                speaker = new TextToSpeech(Android.App.Application.Context, this);
             }
             else
             {
@@ -47,5 +47,4 @@ namespace Lab07Dependencia.Droid
         }
         #endregion
     }
-
-    }
+}
