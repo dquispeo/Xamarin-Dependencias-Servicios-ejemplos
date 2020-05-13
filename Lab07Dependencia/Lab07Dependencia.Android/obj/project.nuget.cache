@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FYwkRdgdgBrroZflgVP4EQhnXsXBo+bXErNyA1ZKgCJkeTAby1Q7ev6fQe5TKEdOqX6v95GClxjPq/CDRZWubg==",
+  "dgSpecHash": "1DXHynj7EFS1NcId3g9OGCk+gRrWDE3W6Uatw1bB5e531Tkg2FqG3XImNMg1Xd5zurO89cq0jSqvyyhZ8KmCSw==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos-Visual Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
+  "projectFilePath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\fastandroidcamera\\2.0.0\\fastandroidcamera.2.0.0.nupkg.sha512",
     "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
@@ -43,7 +44,9 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512",
+    "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
   ],
   "logs": []
 }
