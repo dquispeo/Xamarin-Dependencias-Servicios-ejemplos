@@ -569,23 +569,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "E:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos-Visual Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
+      "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
       "projectName": "Lab07Dependencia",
-      "projectPath": "D:\\Proyectos-Visual Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
-      "packagesPath": "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos-Visual Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\obj\\",
+      "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "E:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jeff Llanos Orihuela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
