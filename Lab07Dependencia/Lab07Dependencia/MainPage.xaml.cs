@@ -19,6 +19,10 @@ namespace Lab07Dependencia
             {
                 await Navigation.PushAsync(new BatteryDemo());
             };
+            Item1.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new TextToSpeechDemo());
+            };
         }
         public async void BtnScanear_Clicked(object sender, EventArgs e)
         {
