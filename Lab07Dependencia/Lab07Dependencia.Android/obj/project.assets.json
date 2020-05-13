@@ -2043,19 +2043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
+      "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
       "projectName": "Lab07Dependencia.Android",
-      "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
+      "projectPath": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.Android\\obj\\",
-=======
-      "projectUniqueName": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
-      "projectName": "Lab07Dependencia.Android",
-      "projectPath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.Android\\Lab07Dependencia.Android.csproj",
-      "packagesPath": "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.Android\\obj\\",
->>>>>>> c7d38518f904017db71488d2b2ce9bf97ae6896c
+      "outputPath": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2076,13 +2068,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-<<<<<<< HEAD
-            "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
-              "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj"
-=======
-            "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
-              "projectPath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj"
->>>>>>> c7d38518f904017db71488d2b2ce9bf97ae6896c
+            "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
+              "projectPath": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj"
             }
           }
         }

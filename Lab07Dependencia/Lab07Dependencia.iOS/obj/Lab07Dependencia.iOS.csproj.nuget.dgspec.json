@@ -1,31 +1,17 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj": {}
+    "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj": {}
   },
   "projects": {
-    "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj": {
+    "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj",
+        "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj",
         "projectName": "Lab07Dependencia.iOS",
-        "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj",
+        "projectPath": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.iOS\\obj\\",
-=======
-    "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj": {}
-  },
-  "projects": {
-    "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj",
-        "projectName": "Lab07Dependencia.iOS",
-        "projectPath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\Lab07Dependencia.iOS.csproj",
-        "packagesPath": "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\obj\\",
->>>>>>> c7d38518f904017db71488d2b2ce9bf97ae6896c
+        "outputPath": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -46,13 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-<<<<<<< HEAD
-              "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
-                "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj"
-=======
-              "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
-                "projectPath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj"
->>>>>>> c7d38518f904017db71488d2b2ce9bf97ae6896c
+              "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
+                "projectPath": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj"
               }
             }
           }
@@ -84,25 +65,14 @@
         }
       }
     },
-<<<<<<< HEAD
-    "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
+    "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
+        "projectUniqueName": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
         "projectName": "Lab07Dependencia",
-        "projectPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
+        "projectPath": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectVisualStudio\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia\\obj\\",
-=======
-    "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
-        "projectName": "Lab07Dependencia",
-        "projectPath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\Lab07Dependencia.csproj",
-        "packagesPath": "C:\\Users\\Jeff Llanos Orihuela\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos-Visual-Studio\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\obj\\",
->>>>>>> c7d38518f904017db71488d2b2ce9bf97ae6896c
+        "outputPath": "E:\\ProjectVisualStudio\\Lab07DependenciaArreglado\\Xamarin-Dependencias-Servicios-ejemplos\\Lab07Dependencia\\Lab07Dependencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Microsoft\\Xamarin\\NuGet\\"
